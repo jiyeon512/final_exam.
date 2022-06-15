@@ -288,3 +288,14 @@ TSP의 이웃해 정의 3가지 예
 • 모의 담금질(Simulated Annealing) 알고리즘: 높은 온도에서 액체 상태인 물질이 온도가 점차 낮아지면서 결정체로 변하는 과정을 모방한 해 탐색 알고리즘
 
 유전자 알고리즘과 마찬가지로 모의 담금질 기법도 항상 전역 최적해를 찾아준다는 보장은 없다. 
+
+
+
+
+
+# 담금질 기법 
+
+Simulated annealing (SA) is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum of a given function in a large search space. It is often used when the search space is discrete (e.g., all tours that visit a given set of cities). For certain problems, simulated annealing may be more efficient than exhaustive enumeration — provided that the goal is merely to find an acceptably good solution in a fixed amount of time, rather than the best possible solution.
+
+![image](https://user-images.githubusercontent.com/101514626/173850122-eb28295a-10d8-42e6-af52-d7940a2ad1bf.png)
+
